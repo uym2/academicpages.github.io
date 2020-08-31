@@ -1,4 +1,3 @@
-
 ---
 title: "Log Transformation Improves Dating of Phylogenies"
 collection: publications
