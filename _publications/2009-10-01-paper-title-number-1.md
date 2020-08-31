@@ -1,15 +1,10 @@
 ---
-title: "Paper Title Number 1"
+title: "Minimum Variance Rooting of Phylogenetic Trees and Implications for Species Tree Reconstruction"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0182238
+excerpt: 'This paper introduces MinVar-Rooting, a method to root the tree at the point that minimizes the variance of the root to tip distances, and a linear-time algorithm to find the MinVar point.'
+date: 2017-08-11
+venue: 'PLOS ONE'
+paperurl: 'https://uym2.github.io/MinVar-Rooting/'
+citation: 'Mai, Uyen, Erfan Sayyari, and Siavash Mirarab. “Minimum Variance Rooting of Phylogenetic Trees and Implications for Species Tree Reconstruction.” Edited by Gabriel Moreno-Hagelsieb. PLOS ONE 12, no. 8 (2017): e0182238. doi:10.1371/journal.pone.0182238.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
