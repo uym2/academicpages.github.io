@@ -1,6 +1,6 @@
 ---
 title: "TreeShrink: Fast and accurate detection of outlier long branches in collections of phylogenetic trees."
-collection: publication
+collection: publications
 permalink: /publication/2018-TreeShrink
 excerpt: 'TreeShrink is an algorithm for detecting abnormally long branches in one or a collection of phylogenetic trees.'
 date: 2018-05-08
