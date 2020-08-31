@@ -1,7 +1,7 @@
 ---
 title: "Minimum Variance Rooting of Phylogenetic Trees and Implications for Species Tree Reconstruction"
 collection: publications
-permalink: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0182238
+permalink: /publication/2010-MinVar
 excerpt: 'This paper introduces MinVar-Rooting, a method to root the tree at the point that minimizes the variance of the root to tip distances, and a linear-time algorithm to find the MinVar point.'
 date: 2017-08-11
 venue: 'PLOS ONE'
