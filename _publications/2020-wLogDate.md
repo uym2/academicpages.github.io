@@ -7,4 +7,4 @@ date: 2020-08-31
 venue: 'MBE'
 citation: 'Mai, Uyen, and Siavash Mirarab. “Log Transformation Improves Dating of Phylogenies.” Molecular Biology and Evolution, in press 2020.'
 ---
-[Project page](https://github.com/uym2/wLogDate/)
+[Project page](https://uym2.github.io/wLogDate/)
