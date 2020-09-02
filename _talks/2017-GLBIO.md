@@ -8,4 +8,5 @@ date: 2017-05-16
 location: "Chicago IL, USA"
 ---
 
-Minimum variance rooting of phylogenetic trees and implications for species tree reconstruction. Our paper won 1 of the 2 best-paper awards.
+* Talk title: Minimum variance rooting of phylogenetic trees and implications for species tree reconstruction
+* Won 1 of the 2 best-paper awards.
