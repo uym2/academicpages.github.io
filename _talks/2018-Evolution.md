@@ -8,4 +8,4 @@ venue: "University of Montpellier"
 location: "Montpellier, France"
 ---
 
-Minimum Variance Rooting and TreeShrink as new components in a phylogenetic reconstruction pipeline
+* Talk title: Minimum Variance Rooting and TreeShrink as new components in a phylogenetic reconstruction pipeline
