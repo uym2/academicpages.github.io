@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Uyen Mai. I am a PhD candidate in the Computer Science and Engineering at the University of California, San Diego (UCSD). 
+I am a PhD candidate in the Computer Science and Engineering at the University of California, San Diego (UCSD). 
 I am working with [Prof. Siavash Mirarab](http://eceweb.ucsd.edu/~smirarab/) on computational biology, with the focus on evolutionary biology.
 I am interested in developing computational methods that handle large-scale datasets and software tools that are useful for biologists. 
 In addition, I am interested in data analysis of large-scale phylogenomics, especially microbiology and viruses.
