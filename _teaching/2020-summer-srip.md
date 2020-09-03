@@ -7,6 +7,5 @@ venue: "University of California San Diego, ECE Department"
 location: "San Diego, CA USA"
 ---
 
-Research mentor for SRIP 2020
-=====
+Research mentor
   * Mentee: Merve Kilic
