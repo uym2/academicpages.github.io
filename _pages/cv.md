@@ -48,7 +48,7 @@ Teaching
 Work experience
 =========
 * Oregon Health and Science University
-	  * Department of Medical Informatics & Clinical Epidemiology
+    * Department of Medical Informatics & Clinical Epidemiology
     * Summer Research Intern, 2014 Jun – Sep
     * Supervisor: Dr. Vishnu Mohan
     * Clinical Informatics & Database Management: participate in EHR Simulation Research. Design database schema for data management and support in data collection. 
