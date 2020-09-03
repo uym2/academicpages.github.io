@@ -11,30 +11,22 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science (summa cum laude), Portland State University, 2016
+* M.S. in Computer Science, University of California San Diego, 2019
+* Ph.D Candidate in Computer Science, University of California San Diego, 2021 (expected)
 
-Work experience
+Honors and Awards
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Best paper award at GLBIO 2017
+* Microbial Sciences Graduate Research Fellowship, 2017
+* PSU Dean's Award for Academic Achievement, 2015
+* Honors Laurels Merit Award, 2015
+* Phi Kappa Phi Scholarship for Excellent Student, 2015
+* Oracle’s User Group Scholarship, 2015–16
+* International Student Retention Scholarship, 2014–16
+* Student Success Scholarship, Portland State University, 2014–15
+* International Achievement Scholarship, Portland State University, 2013–16
+* APCS Scholarship for Excellent Student, VNUHCM-University of Science, 2011-12
 
 Publications
 ======
@@ -53,7 +45,15 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+
+Work experience
 ======
-* Currently signed in to 43 different slack teams
+* Oregon Health and Science University
+	  * Department of Medical Informatics & Clinical Epidemiology
+    * Summer Research Intern, 2014 Jun – Sep
+    * Supervisor: Dr. Vishnu Mohan
+    * Clinical Informatics & Database Management: participate in EHR Simulation Research. Design database schema for data management and support in data collection. 
+* Portland State University
+    * Computer Vision & Graphics Laboratory
+    * Undergraduate Research Assistant, 2013-16
+    * Supervisor: Professor Feng Liu  
