@@ -3,7 +3,7 @@ title: "Summer Research Internship Program 2020"
 collection: teaching
 type: "Mentor"
 permalink: /teaching/2020-summer-srip
-venue: "University of California San Diego, ECE Department"
+venue: "UCSD, ECE Department"
 location: "San Diego, CA USA"
 ---
 
