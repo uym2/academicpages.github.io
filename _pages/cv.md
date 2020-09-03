@@ -10,13 +10,13 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+=========
 * B.S. in Computer Science (summa cum laude), Portland State University, 2016
 * M.S. in Computer Science, University of California San Diego, 2019
 * Ph.D Candidate in Computer Science, University of California San Diego, 2021 (expected)
 
 Honors and Awards
-======
+=========
 * Best paper award at GLBIO 2017
 * Microbial Sciences Graduate Research Fellowship, 2017
 * PSU Dean's Award for Academic Achievement, 2015
@@ -29,25 +29,25 @@ Honors and Awards
 * APCS Scholarship for Excellent Student, VNUHCM-University of Science, 2011-12
 
 Publications
-======
+=========
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Talks
-======
+=========
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching
-======
+=========
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 Work experience
-======
+=========
 * Oregon Health and Science University
 	  * Department of Medical Informatics & Clinical Epidemiology
     * Summer Research Intern, 2014 Jun – Sep
