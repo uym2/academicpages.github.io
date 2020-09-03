@@ -8,3 +8,4 @@ venue: "UCSD, ECE Department"
 
 Research mentor
   * Mentee: Merve Kilic
+  * Project title: A Fast Implementation of Root-to-Tip Rooting for Virus Phylogenies
