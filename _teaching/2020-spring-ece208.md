@@ -1,5 +1,5 @@
 ---
-title: " ECE 208, Computational Evolutionary Biology"
+title: "ECE 208, Computational Evolutionary Biology"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2020-spring-ece208
