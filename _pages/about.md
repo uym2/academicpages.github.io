@@ -17,5 +17,5 @@ Below are the software packages I have developed:
 * [wLogDate](https://github.com/uym2/wLogDate): computing time tree from an inferred phylogram by minimizing a logarithmic penalty function
 
 In addition, I am also interested in data analysis of phylogenomics data, especially microbiology and viruses.
-I am a contributor (co-first author) to the [WoL: Reference Phylogeny for Microbes](https://biocore.github.io/wol/), which indluces 10,575 bacterial and archaeal genomes on 381 global marker genes. I was a recipient of the Microbial Sciences Graduate Research Fellowship in 2017 and 2018.
+I am a contributor (co-first author) to the [WoL: Reference Phylogeny for Microbes](https://biocore.github.io/wol/), which includes 10,575 bacterial and archaeal genomes on 381 global marker genes. I was a recipient of the Microbial Sciences Graduate Research Fellowship in 2017 and 2018.
 I obtained the MS degree at UCSD in 2019 and BS degree at Portland State University in 2016. 
